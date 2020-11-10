@@ -9,7 +9,7 @@ TITLE: [ROM][AOSP] RevengeOS 4.0 | DEVICE (codename) [UNOFFICIAL]
 [CENTER][HIDE]
 [U][I]RevengeOS' exclusive features:[/U][/I]
 - Battery health check
-- Redesigned QuickSettings panel
+- Brand new UI, designed to be more immersive.
 - Brand new volume panel
 - Gradients. Everywhere.
 - New clock styles
