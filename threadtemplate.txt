@@ -1,10 +1,10 @@
 TITLE: [ROM][AOSP] RevengeOS 4.0 | DEVICE (codename) [UNOFFICIAL]
-[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/banner.png?raw=true[/img][/CENTER]
+[img]https://github.com/RevengeOS/Documents/raw/master/Images/banner.png?raw=true[/img]
 
-[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/aboutus.png?raw=true[/img][/CENTER]
+[img]https://github.com/RevengeOS/Documents/raw/master/Images/aboutus.png?raw=true[/img]
 [CENTER]RevengeOS is an operating system based on Android Open Source Project, built with an unique look and performance in mind. It's always ready for daily usage, lightweight and intuitive.[/CENTER]
 
-[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/features.png?raw=true[/img][/CENTER]
+[img]https://github.com/RevengeOS/Documents/raw/master/Images/features.png?raw=true[/img]
 [CENTER]Our features:[/CENTER]
 [CENTER][HIDE]
 [U][I]RevengeOS' exclusive features:[/U][/I]
@@ -30,11 +30,11 @@ TITLE: [ROM][AOSP] RevengeOS 4.0 | DEVICE (codename) [UNOFFICIAL]
 - And many more...
 [/HIDE][/CENTER]
 
-[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/downloads.png?raw=true[/img][/CENTER]
+[img]https://github.com/RevengeOS/Documents/raw/master/Images/downloads.png?raw=true[/img]
 [CENTER]Download for YOURDEVICE: [COLOR=#289AFF][URL="https://download.revengeos.com/download/YOURDEVICECODENAME/"]HERE[/URL][/COLOR][/CENTER]
 [CENTER]Additional downloads: [COLOR=#FF4E28][URL="FWLINK"]Firmware[/URL][/COLOR][/CENTER]
 
-[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/installation.png?raw=true[/img][/CENTER]
+[img]https://github.com/RevengeOS/Documents/raw/master/Images/installation.png?raw=true[/img]
 [CENTER]Clean flash steps:[/CENTER]
 [CENTER][HIDE]
 - Boot into your recovery
@@ -56,8 +56,8 @@ TITLE: [ROM][AOSP] RevengeOS 4.0 | DEVICE (codename) [UNOFFICIAL]
 - Reboot!
 [/HIDE][/CENTER]
 
-[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/known_issues.png?raw=true[/img][/CENTER]
+[img]https://github.com/RevengeOS/Documents/raw/master/Images/known_issues.png?raw=true[/img]
 [CENTER]*enter here your issues*[/CENTER]
 
-[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/donate.png?raw=true[/img][/CENTER]
-[CENTER]You can donate to us [COLOR=#289AFF][URL="https://paypal.me/YOURNICK]here![/URL][/COLOR][/CENTER]
+[img]https://github.com/RevengeOS/Documents/raw/master/Images/donate.png?raw=true[/img]
+[CENTER]You can donate to us [COLOR=#289AFF][URL="https://paypal.me/YOURNICK"]here![/URL][/COLOR][/CENTER]
