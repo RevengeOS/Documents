@@ -1,0 +1,63 @@
+TITLE: [ROM][AOSP] RevengeOS 4.0 | DEVICE (codename) [UNOFFICIAL]
+[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/banner.png?raw=true[/img][/CENTER]
+
+[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/aboutus.png?raw=true[/img][/CENTER]
+[CENTER]RevengeOS is an operating system based on Android Open Source Project, built with an unique look and performance in mind. It's always ready for daily usage, lightweight and intuitive.[/CENTER]
+
+[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/features.png?raw=true[/img][/CENTER]
+[CENTER]Our features:[/CENTER]
+[CENTER][HIDE]
+[U][I]RevengeOS' exclusive features:[/U][/I]
+- Battery health check
+- Redesigned QuickSettings panel
+- Brand new volume panel
+- Gradients. Everywhere.
+- New clock styles
+[U][I]General features:[/U][/I]
+- In call alerts
+- Kill app button
+- Hide/Show battery percentage
+- Resume media from QS
+- Playback control from volume rocker
+- Wake up with volume buttons
+- Quick camera opening from sleep
+- 3-button navigation system
+- Pill navigation system
+- Swipe to screenshot
+- Wake on charge
+- Proximity sensor check when waking up
+- Full sensor block
+- And many more...
+[/HIDE][/CENTER]
+
+[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/downloads.png?raw=true[/img][/CENTER]
+[CENTER]Download for YOURDEVICE: [COLOR=#289AFF][URL="https://download.revengeos.com/download/YOURDEVICECODENAME/"]HERE[/URL][/COLOR][/CENTER]
+[CENTER]Additional downloads: [COLOR=#FF4E28][URL="FWLINK"]Firmware[/URL][/COLOR][/CENTER]
+
+[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/installation.png?raw=true[/img][/CENTER]
+[CENTER]Clean flash steps:[/CENTER]
+[CENTER][HIDE]
+- Boot into your recovery
+- Wipe data, cache, ART/Dalvik cache
+- Format data, then reboot to your recovery
+- If needed, flash firmware zip file for your device
+- Flash RevengeOS zip file
+- Re-wipe cache and ART/dalvik cache
+- [OPTIONAL] Flash GApps zip and/or Magisk zip
+- Reboot!
+[/HIDE][/CENTER]
+[CENTER]Dirty flash steps:[/CENTER]
+[CENTER][HIDE]
+- Boot into your recovery
+- If needed, flash firmware zip file for your device
+- Flash RevengeOS zip file
+- Wipe cache and ART/dalvik cache
+- [OPTIONAL] Flash GApps zip and/or Magisk zip
+- Reboot!
+[/HIDE][/CENTER]
+
+[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/known_issues.png?raw=true[/img][/CENTER]
+[CENTER]*enter here your issues*[/CENTER]
+
+[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/donate.png?raw=true[/img][/CENTER]
+[CENTER]You can donate to us [COLOR=#289AFF][URL="https://paypal.me/YOURNICK]here![/URL][/COLOR][/CENTER]
