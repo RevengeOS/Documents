@@ -1,0 +1,39 @@
+[CENTER][IMG="Banner"]https://github.com/pratyakshm/RevengeOS-Documents/blob/master/Images/banner.png?raw=true[/IMG]
+[SIZE="5"][FONT="Product Sans"]RevengeOS is an operating system based on Android Open Source Project, built with a unique look and performance in mind. It's daily usage ready, lightweight and elegant.[/FONT][/SIZE][/CENTER]
+
+[SIZE="6"][FONT="Product Sans"]FEATURES[/FONT][/SIZE][FONT="Product Sans"][SIZE="4"]
+[B]RevengeOS exclusive features:[/B]
+- Battery health checker
+- Brand new RevengeUI, built to be different, built to be elegant
+- Brand new media controller
+- Systemwide gradients
+- New lock screen clock styles
+[B]General features:[/B]
+[HIDE]
+- In call haptic-feedback
+- Kill app button
+- Toggle battery percentage in status bar
+- Resume media from Quick Settings
+- Playback control from volume buttons
+- Wake up with volume buttons
+- Quick camera launch from sleep
+- 3-button navigation system
+- Pill navigation system
+- Swipe to screenshot
+- Wake on charge
+- Proximity sensor check when waking up
+- Systemwide sensor block
+- And so much more![/HIDE]
+[/FONT][/SIZE][SIZE="6"][FONT="Product Sans"]DOWNLOADS[/SIZE][/FONT]
+[FONT="Product Sans"][SIZE="4"]$device [URL="https://download.revengeos.com/download/$device/"]tap here[/SIZE][/FONT][/URL]
+
+[SIZE="6"][FONT="Product Sans"]INSTALLATION[/SIZE][/FONT][FONT="Product Sans"][SIZE="4"]
+- Boot into your recovery 
+- Wipe system, vendor, data, dalvik-art cache, cache
+- Flash RevengeOS build
+- Optional: flash [URL="http://flamegapps.github.io"]FlameGApps[/URL]
+- Reboot
+- Optional: flash [URL="https://github.com/topjohnwu/Magisk/releases"]Magisk [/URL](if you want to root your device as well) (it's recommended to flash Magisk post first boot)
+[/SIZE][/FONT]
+[SIZE="6"][FONT="Product Sans"]DONATE[/FONT][/SIZE]
+Support this project by donating [URL="http://paypal.me/$developer"]here[/URL]!
