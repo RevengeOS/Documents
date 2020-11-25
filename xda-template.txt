@@ -37,3 +37,18 @@
 [/SIZE][/FONT]
 [SIZE="6"][FONT="Product Sans"]DONATE[/FONT][/SIZE]
 Support this project by donating [URL="http://paypal.me/$developer"]here[/URL]!
+
+[SIZE="6"][FONT="Product Sans"]Important[/FONT][/SIZE]
+Hi guys, we're posting this message today to talk about RevengeOS. We want to talk about the developers of our project.
+
+There are just three developers that hard-worked every day for you, to deliver optimization, exclusive RevengeUI, media controller, etc. We want to make this project more and more exclusive, and we want to improve everything. And lastly, we want their users to be happy while using it. But there is a problem, three developers can't do much. So, we're here to ask if you - if you're a developer, and if you want to join us, you may do so. We have the following requirements:
+
+Knowledge of Android and Java
+
+Desire to be innovative
+
+Be mad
+
+Think you're good enough? Contact us via email!
+
+Email: team@revengeos.com
